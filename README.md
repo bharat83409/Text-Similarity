@@ -1,1 +1,1 @@
-# Text-Similarity
+# TextSimilarity
